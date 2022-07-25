@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #0d0d0d;
+    color: white;
+    font-family: 'Times New Roman', Verdana;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.recipe {
+    color: white;
+}
